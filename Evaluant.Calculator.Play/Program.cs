@@ -18,7 +18,8 @@ namespace NCalc.Play
 				"10 % 3",
 				"false || not (false and true)",
 				"3 > 2 and 1 <= (3-2)",
-				"3 % 2 != 10 % 3"
+				"3 % 2 != 10 % 3",
+                "3+3"
                 //"if( [age] >= 18, 'majeur', 'mineur')",
                 //"CalculateBenefits([user]) * [Taxes]"
 			};
